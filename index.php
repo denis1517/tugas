@@ -35,7 +35,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <title>Form Biodata Anak Teknik</title>
+    <title>Form Biodata Mahasiswa</title>
 </head>
 <body>
     <div class="container">
